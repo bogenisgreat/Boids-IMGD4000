@@ -1,7 +1,7 @@
 # Boids-IMGD4000
 
 This is Zachary Koval's Agent based simulation of Boids for IMGD 4000
-Link to video of simulation https://youtu.be/dPm7ZXtvPiQ
+Link to video of simulation https://youtu.be/JAKv7_90Hys
 
 The 4 rules implemented are:
 <br>Fly toward precived center
